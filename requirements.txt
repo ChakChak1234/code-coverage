@@ -1,0 +1,10 @@
+cpython
+pomegranate
+tensorflow
+networkx
+pyspark
+numpy
+pandas
+hunter
+impyute
+scikit-learn
